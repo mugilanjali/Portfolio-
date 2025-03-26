@@ -17,5 +17,5 @@ Hi! I am a passionate Software Tester with experience in manual and automation t
 - A simple Selenium script to automate login testing.  
 
 ## Contact Me  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **Email**: your-email@example.com  
+- **LinkedIn**:  http://linkedin.com/in/mugilanjali
+- **Email**: mugilanjali.anjali5004@gmail.com 
